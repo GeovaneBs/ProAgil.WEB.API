@@ -1,0 +1,14 @@
+D:\Projetos\CursoAPI\ProAgil.WEB.API\bin\Debug\netcoreapp2.2\ProAgil.WEB.API.deps.json
+D:\Projetos\CursoAPI\ProAgil.WEB.API\bin\Debug\netcoreapp2.2\ProAgil.WEB.API.runtimeconfig.json
+D:\Projetos\CursoAPI\ProAgil.WEB.API\bin\Debug\netcoreapp2.2\ProAgil.WEB.API.runtimeconfig.dev.json
+D:\Projetos\CursoAPI\ProAgil.WEB.API\bin\Debug\netcoreapp2.2\ProAgil.WEB.API.dll
+D:\Projetos\CursoAPI\ProAgil.WEB.API\bin\Debug\netcoreapp2.2\ProAgil.WEB.API.pdb
+D:\Projetos\CursoAPI\ProAgil.WEB.API\obj\Debug\netcoreapp2.2\ProAgil.WEB.API.csprojAssemblyReference.cache
+D:\Projetos\CursoAPI\ProAgil.WEB.API\obj\Debug\netcoreapp2.2\ProAgil.WEB.API.csproj.CoreCompileInputs.cache
+D:\Projetos\CursoAPI\ProAgil.WEB.API\obj\Debug\netcoreapp2.2\ProAgil.WEB.API.RazorAssemblyInfo.cache
+D:\Projetos\CursoAPI\ProAgil.WEB.API\obj\Debug\netcoreapp2.2\ProAgil.WEB.API.RazorAssemblyInfo.cs
+D:\Projetos\CursoAPI\ProAgil.WEB.API\obj\Debug\netcoreapp2.2\ProAgil.WEB.API.AssemblyInfoInputs.cache
+D:\Projetos\CursoAPI\ProAgil.WEB.API\obj\Debug\netcoreapp2.2\ProAgil.WEB.API.AssemblyInfo.cs
+D:\Projetos\CursoAPI\ProAgil.WEB.API\obj\Debug\netcoreapp2.2\ProAgil.WEB.API.RazorTargetAssemblyInfo.cache
+D:\Projetos\CursoAPI\ProAgil.WEB.API\obj\Debug\netcoreapp2.2\ProAgil.WEB.API.dll
+D:\Projetos\CursoAPI\ProAgil.WEB.API\obj\Debug\netcoreapp2.2\ProAgil.WEB.API.pdb

@@ -1,0 +1,12 @@
+Projeto API - é um conjunto de rotinas e padrões 
+de programação para acesso a um aplicativo de software
+ou plataforma baseada na Web. 
+A sigla API refere-se ao tremo em inglês 
+"Application Programming Interface"
+Exemplo:
+
+Cliente (Client - celular)
+Garçom (pedidos, leva seus pedidos, para a conzinha) (API)
+Cozinha (Servidor)
+- Meio de campo entre as tecnologias 
+- Intermediador para troca de informações
